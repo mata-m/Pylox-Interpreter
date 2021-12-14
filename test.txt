@@ -1,0 +1,4 @@
+for /* this is a test file
+/* */ /*
+*/ while */ for while 
+// test
