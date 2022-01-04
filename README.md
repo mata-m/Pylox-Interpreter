@@ -1,5 +1,5 @@
 # JLox Language Interpreter
-This currrenly is the code required for the Scanner of the 
+Code from following along with the 
 Crafting Interpreters book implementation of Jlox.
 
 
